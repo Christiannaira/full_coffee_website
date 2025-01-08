@@ -16,4 +16,13 @@
     --secondary-color: #f3961c;
     --ligh-pink-color: #faf4f5;
     --medium-gray-color: #ccc;
+
+    /* Font size */
+    --font-size-s: 0.9rem;
+    --font-size-n: 1rem;
+    --font-size-m: 1.12rem;
+    --font-size-l: 1.5rem;
+    --font-size-xl: 2rem;
+    --font-size-xxl: 2.3rem;
+
 }
