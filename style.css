@@ -31,4 +31,7 @@
     --font-weight-semibold: 600;
     --font-weight-bold: 700;
 
+    /* Site max-width */
+    --site-max-width: 1300px;
+
 }
